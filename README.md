@@ -34,6 +34,6 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rmpranto?cardType=octocat&theme=react)](https://git.io/awesome-stats-card)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmpranto&theme=react)](https://github.com/rmpranto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmpranto&show_icons=true&theme=react)](https://github.com/rmpranto/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmpranto&" alt="rmpranto" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmpranto&thene=react" alt="rmpranto" /></p>
