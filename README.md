@@ -10,9 +10,11 @@
 
 - 🌱 I’m currently learning **Business Intelligence, Data Analytics, Power BI**
 
-- 📫 Contact Info **
-  **📧Email: mail.rmpranto@gmail.com**
-  **☎️Phone: +8801750642658** **
+<h3 align="left">📫 Contact Info</h3>
+
+☎️Phone: +8801750642658
+📧Email: mail.rmpranto@gmail.com
+<p align="left">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,8 +31,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rmpranto"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rmpranto" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rmpranto&show_icons=true&locale=en&layout=compact" alt="rmpranto" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rmpranto&show_icons=true&locale=en" alt="rmpranto" /></p>
+[![Rahat Maksud Pranto's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmpranto&show_icons=true&theme=onedark&count_private=true&findTotalCommits=true&hide=contribs)](https://github.com/rmpranto/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rmpranto&" alt="rmpranto" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmpranto&show_icons=true&theme=onedark&count_private=true&layout=compact&langs_count=10)](https://github.com/rmpranto/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmpranto&=onedark" alt="rmpranto" /></p>
