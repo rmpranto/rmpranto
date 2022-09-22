@@ -34,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rmpranto&show_icons=true&locale=en&layout=compact" alt="rmpranto" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rmpranto&show_icons=true&locale=en" alt="rmpranto" /></p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rmpranto?cardType=octocat&theme=react)](https://git.io/awesome-stats-card)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmpranto&" alt="rmpranto" /></p>
