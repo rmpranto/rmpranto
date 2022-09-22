@@ -29,11 +29,11 @@
 </div>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/rmpranto"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rmpranto" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/rmpranto"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rmpranto" /></a></p><br><br></br>
 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rmpranto?cardType=octocat&theme=react)](https://git.io/awesome-stats-card)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmpranto&show_icons=true&theme=react)](https://github.com/rmpranto/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmpranto&thene=react" alt="rmpranto" /></p></br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rmpranto&theme=react)](https://git.io/streak-stats)
