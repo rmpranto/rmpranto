@@ -11,8 +11,8 @@
 - 🌱 I’m currently learning **Business Intelligence, Data Analytics, Power BI**
 
 - 📫 Contact Info **
-  📧Email: mail.rmpranto@gmail.com
-  ☎️Phone: +8801750642658**
+  **📧Email: mail.rmpranto@gmail.com**
+  **☎️Phone: +8801750642658** **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rmpranto&show_icons=true&locale=en&layout=compact" alt="rmpranto" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rmpranto&show_icons=true&locale=en" alt="rmpranto" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rmpranto&show_icons=true&locale=en" alt="rmpranto" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rmpranto&" alt="rmpranto" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rmpranto&" alt="rmpranto" /></p>
