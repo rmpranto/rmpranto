@@ -1,5 +1,5 @@
 <h1 align="center">Assalamualaykum!</h1>
-<h2 align="center">I'm Rahat Maksud Pranto</h2>
+# <a href="https://rmpranto.github.io/">Rahat Maksud Pranto</a>
 <h3 align="center">Fresh Software Engineering graduate from AIUB. Eager to pursue a career in Data track, Especially in Business Intelligence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmpranto&label=Profile%20views&color=0e75b6&style=flat" alt="rmpranto" /> </p>
