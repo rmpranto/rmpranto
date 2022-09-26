@@ -13,7 +13,7 @@
 <h3 align="left">📫 Contact Info</h3>
 
 ☎️Phone: +8801750642658 <br>
-📧Email: mail.rmpranto@gmail.com <p align="left">
+📧Email: mail.rmpranto@gmail.com <br>
 🌐Portfolio: https://rmpranto.github.io/
 <p align="left">
 
