@@ -52,13 +52,31 @@ efficiency across various industries.
 </p>
 <h2 align="center">Skills</h2>
 
+Power Query
+
+ETL
+
+DAX
+
+Excel Pivot Tables
+
+Data Analysis
+
+Dashboard
+
+Visualization
+<h3 align="left">BI Method</h3>
+<p align="left"> 
+Power Query | ETL | DAX | Excel Pivot Tables | Data Analysis | Dashboard
+</p>
+
 <h3 align="left">Visualization</h3>
 <p align="left"> 
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi"  width="40" height="40" /></a>
 <a href="https://cdn.iconscout.com/icon/free/png-256/microsoft-excel-1411847-1194336.png?w=256&amp;f=webp" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-excel-1411847-1194336.png?w=256&amp;f=webp" alt="Excel"  width="40" height="40" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Programming Languages</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://rmpranto.github.io/assets/icons/sql.png" alt="sql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
