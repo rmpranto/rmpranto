@@ -52,19 +52,6 @@ efficiency across various industries.
 </p>
 <h2 align="center">Skills</h2>
 
-Power Query
-
-ETL
-
-DAX
-
-Excel Pivot Tables
-
-Data Analysis
-
-Dashboard
-
-Visualization
 <h3 align="left">BI Method</h3>
 <p align="left"> 
 Power Query | ETL | DAX | Excel Pivot Tables | Data Analysis | Dashboard
