@@ -1,6 +1,40 @@
 <h2 align="center">Assalamualaykum!</h2>
 <h1 align="center">I'm <a href="https://rmpranto.github.io/">Rahat Maksud Pranto</a></h1>
-<h3 align="center">Fresh Software Engineering graduate from AIUB. Eager to pursue a career in Data track, Especially in Business Intelligence.</h3>
+<p>
+  I am a passionate software engineering graduate from AIUB, with a strong focus on the data-driven 
+landscape. My journey in the tech world has ignited a profound interest in <strong>data analysis</strong>, 
+  <strong>data engineering</strong>, and <strong>business intelligence</strong>. With nearly a year 
+of dedicated learning, I have completed over 10 certifications including the prestigious
+"Microsoft Power BI Data Analyst Specialization." My dedication to learning extends to 
+hands-on projects—over 10 personal data-driven initiatives—that showcase my ability to tackle 
+real-world challenges with tools like <strong>Power BI</strong>, <strong>SQL</strong>, <strong>Excel</strong>, 
+  and <strong>Python</strong>.
+</p>
+
+<p>
+I have hands-on experience in <strong>ETL processes</strong>, <strong>data modeling</strong>,  
+<strong>database management</strong> and <strong>visualization</strong>. 
+My knowledge extends to <strong>DAX</strong>, <strong> SQL</strong>, and larger datasets, with 
+ongoing preparation for the Microsoft PL-300 Data Analyst certification. To regularly enhance my data 
+driven skills i'm practicing through platforms like 
+<strong>DataCamp</strong>, <strong>Maven Analytics </strong>and <strong>HackerRank</strong>. 
+I am also familiar with the Software Development Life Cycle (SDLC) and 
+Unified Modeling Language (UML), which enhances my ability to collaborate 
+effectively within teams and manage projects efficiently.
+</p>
+
+<p>
+During my undergraduate studies, I explored courses like Advanced Database Management Systems, 
+Statistics and Probability and Artificial Intelligence, gaining 
+insights into business intelligence, product management, and software quality assurance. 
+</p>
+
+<p>
+  As an aspiring data enthusiast, I am eager to contribute to innovative projects that challenge my technical 
+skills while making a meaningful impact on businesses. My goal is to work in an environment that fosters 
+learning and innovation, where I can help organizations leverage data for better decision-making and drive 
+efficiency across various industries.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmpranto&label=Profile%20views&color=0e75b6&style=flat" alt="rmpranto" /> </p>
 
