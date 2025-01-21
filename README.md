@@ -54,7 +54,17 @@ efficiency across various industries.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/rmpranto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rmpranto" height="30" width="40" /></a>
-
+<a href="mailto:mail.rmpranto@gmail.com" target="_blank"<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="rmpranto@gmail.com" height="30" width="40" /></a>
+			<a href="https://github.com/rmpranto" target="_blank" class="social-link" aria-label="Visit my GitHub profile">
+				<i class="fab fa-github"></i>
+			</a>
+			<a href="https://wa.link/aofdob" target="_blank" class="social-link" aria-label="Message me on WhatsApp">
+				<i class="fa fa-whatsapp"></i>
+			</a>
+			<a href="https://join.skype.com/invite/sKhUH0LmTvD0" target="_blank" class="social-link" aria-label="Chat with me on Skype">
+				<i class="fa fa-skype"></i>
+			</a>
+  
 <a href="https://twitter.com/rm_pranto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rm_pranto" height="30" width="40" /></a>
 </p>
 
