@@ -30,7 +30,7 @@ Detail-oriented **Data Analyst** with a software engineering background and **1+
 
 ---
 
-<!-- ## 🛠️ Tech Stack
+ ## 🛠️ Tech Stack
 
 ### 📊 BI & Visualization
 <p>
@@ -90,8 +90,8 @@ Detail-oriented **Data Analyst** with a software engineering background and **1+
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
 </p>
 
---- -->
 
+<!--
 ## 🏅 Certifications
 
 | Certification | Issuer |
@@ -123,7 +123,7 @@ Detail-oriented **Data Analyst** with a software engineering background and **1+
 | 🚙 Car Transport Management | SQL Database | [View](https://rmpranto.github.io/project-details/Car-Transport-Management-System.html) |
 
 ---
-
+--- -->
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -143,7 +143,7 @@ Detail-oriented **Data Analyst** with a software engineering background and **1+
 </p>
 
 ---
-
+<!--
 ## 📫 Contact
 
 - ☎️ **Phone:** +880 175 064 2658
@@ -153,7 +153,7 @@ Detail-oriented **Data Analyst** with a software engineering background and **1+
 - 📍 **Location:** Dhaka, Bangladesh
 
 ---
-
+--- -->
 ## ☕ Support Me
 
 If you find my work useful or interesting, consider buying me a coffee — it keeps the late-night data crunching going!
