@@ -16,8 +16,6 @@
 </p>
 
 ---
-
-## About Me
 <h2 align="center">About Me</h2>
 
 Detail-oriented **Data Analyst** with a software engineering background and **1+ year of professional experience** at **V2 Technologies Ltd.** Passionate about transforming complex datasets into clear, actionable business insights using SQL, Power BI, Looker Studio, BigQuery, Excel, and Python.
@@ -30,9 +28,7 @@ Detail-oriented **Data Analyst** with a software engineering background and **1+
 - 📍 Based in **Dhaka, Bangladesh** · Available for new opportunities
 
 ---
-
- ## 🛠️ Tech Stack
-
+<h2 align="center">🛠️ Tech Stack</h2>
 ### 📊 BI & Visualization
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
@@ -125,8 +121,7 @@ Detail-oriented **Data Analyst** with a software engineering background and **1+
 
 ---
 --- -->
-## 📈 GitHub Stats
-
+<h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
   <a href="https://git.io/awesome-stats-card">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/rmpranto?cardType=octocat&theme=react" alt="Rahat's GitHub Stats" />
@@ -155,8 +150,7 @@ Detail-oriented **Data Analyst** with a software engineering background and **1+
 
 ---
 --- -->
-## ☕ Support Me
-
+<h2 align="center">☕ Support Me</h2>
 If you find my work useful or interesting, consider buying me a coffee — it keeps the late-night data crunching going!
 
 <p align="center">
