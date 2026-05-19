@@ -18,6 +18,7 @@
 ---
 
 ## About Me
+<h2 align="center">About Me</h2>
 
 Detail-oriented **Data Analyst** with a software engineering background and **1+ year of professional experience** at **V2 Technologies Ltd.** Passionate about transforming complex datasets into clear, actionable business insights using SQL, Power BI, Looker Studio, BigQuery, Excel, and Python.
 
