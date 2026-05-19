@@ -1,4 +1,4 @@
-<h2 align="center">Assalamualaykum! 👋</h2>
+<h2 align="center">Hi!</h2>
 <h1 align="center">I'm <a href="https://rmpranto.github.io/">Rahat Maksud Pranto</a></h1>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Detail-oriented **Data Analyst** with a software engineering background and **1+ year of professional experience** at **V2 Technologies Ltd.** Passionate about transforming complex datasets into clear, actionable business insights using SQL, Power BI, Looker Studio, BigQuery, Excel, and Python.
 
@@ -39,7 +39,7 @@ Detail-oriented **Data Analyst** with a software engineering background and **1+
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
 </p>
 
-### 🔧 Data Engineering & Methods
+### 🔧 BI Methods
 <p>
   <img src="https://img.shields.io/badge/ETL-0078D4?style=flat&logo=azuredataexplorer&logoColor=white" />
   <img src="https://img.shields.io/badge/EDA-FF6F00?style=flat&logo=databricks&logoColor=white" />
