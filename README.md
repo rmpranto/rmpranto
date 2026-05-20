@@ -25,6 +25,7 @@ Detail-oriented **Data Analyst** with a software engineering background and **1+
 
 ---
 <h2 align="center">🛠️ Tech Stack</h2>
+
 ### 📊 BI & Visualization
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
