@@ -22,10 +22,6 @@ Detail-oriented **Data Analyst** with a software engineering background and **1+
 
 - 🔭 Currently working as **Data Analyst** at [V2 Technologies Ltd.](https://v2.ltd/)
 - 🎓 B.Sc. in **Computer Science & Software Engineering** — AIUB
-- 📊 Built **10+ data-driven projects** spanning Power BI, Excel, SQL & more
-- 🏅 Completed **12+ certifications** including Microsoft Power BI Data Analyst Specialization
-- 🌱 Preparing for **Microsoft PL-300** certification
-- 📍 Based in **Dhaka, Bangladesh** · Available for new opportunities
 
 ---
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -56,10 +52,10 @@ Detail-oriented **Data Analyst** with a software engineering background and **1+
 
 ### 🗄️ Databases
 <p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 ### ☁️ Cloud Data Platforms
