@@ -1,6 +1,4 @@
-```
-$ whoami
-```
+
 <h1 align="center">Hi 👋, I'm Rahat Maksud Pranto</h1>
 <h3 align="center">Data Analyst · Data Engineer · BI Developer</h3>
 <p align="center"><i>Transforming complex datasets into actionable business insights</i></p>
